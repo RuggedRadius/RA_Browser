@@ -1,0 +1,87 @@
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\RA_API.exe.config
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\RA_API.exe
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\RA_API.pdb
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.About.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.AchievementDisplay.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.JSONDataView.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.Properties.Resources.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.CopyComplete
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.exe
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.pdb
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.App.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.Displays.LoadingScreen.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\bin\Debug\RA_API.exe.config
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\bin\Debug\RA_API.exe
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\bin\Debug\RA_API.pdb
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csprojAssemblyReference.cache
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RA_API.About.resources
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RA_API.AchievementDisplay.resources
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RA_API.App.resources
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RA_API.JSONDataView.resources
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RA_API.Displays.LoadingScreen.resources
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RA_API.Properties.Resources.resources
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.GenerateResource.cache
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.CoreCompileInputs.cache
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.CopyComplete
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RA_API.exe
+C:\Users\P205225\OneDrive - TAFE\C# Projects\RA_API\RA_API\obj\Debug\RA_API.pdb
+F:\RA_API\RA_API\bin\Debug\RA_API.exe.config
+F:\RA_API\RA_API\bin\Debug\RA_API.exe
+F:\RA_API\RA_API\bin\Debug\RA_API.pdb
+F:\RA_API\RA_API\bin\Debug\Newtonsoft.Json.dll
+F:\RA_API\RA_API\bin\Debug\Tulpep.NotificationWindow.dll
+F:\RA_API\RA_API\bin\Debug\Newtonsoft.Json.xml
+F:\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csprojAssemblyReference.cache
+F:\RA_API\RA_API\obj\Debug\RA_API.About.resources
+F:\RA_API\RA_API\obj\Debug\RA_API.AchievementDisplay.resources
+F:\RA_API\RA_API\obj\Debug\RA_API.App.resources
+F:\RA_API\RA_API\obj\Debug\RA_API.JSONDataView.resources
+F:\RA_API\RA_API\obj\Debug\RA_API.Displays.LoadingScreen.resources
+F:\RA_API\RA_API\obj\Debug\RA_API.Properties.Resources.resources
+F:\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.GenerateResource.cache
+F:\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.CoreCompileInputs.cache
+F:\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.CopyComplete
+F:\RA_API\RA_API\obj\Debug\RA_API.exe
+F:\RA_API\RA_API\obj\Debug\RA_API.pdb
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.About.resources
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.AchievementDisplay.resources
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.JSONDataView.resources
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.Displays.LoadingScreen.resources
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.Properties.Resources.resources
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.GenerateResource.cache
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.CoreCompileInputs.cache
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.exe
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.pdb
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\RA_API.exe.config
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\RA_API.exe
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\RA_API.pdb
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\Newtonsoft.Json.dll
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\Tulpep.NotificationWindow.dll
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\Newtonsoft.Json.xml
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csproj.CopyComplete
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.RecentlyPlayed.resources
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.Main.resources
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\ClosedXML.dll
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\DocumentFormat.OpenXml.dll
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\ExcelNumberFormat.dll
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\FastMember.dll
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\System.IO.Packaging.dll
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\ClosedXML.pdb
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\ClosedXML.xml
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\DocumentFormat.OpenXml.xml
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\ExcelNumberFormat.xml
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.Displays.GameDisplay.resources
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RA_API.Browser.resources
+F:\#Tranby DEMO\RA_API\RA_API\obj\Debug\RetroAchievementsBrowser.csprojAssemblyReference.cache
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\RestSharp.dll
+F:\#Tranby DEMO\RA_API\RA_API\bin\Debug\RestSharp.xml

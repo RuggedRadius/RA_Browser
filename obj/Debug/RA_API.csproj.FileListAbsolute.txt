@@ -1,0 +1,16 @@
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\RA_API.exe.config
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\RA_API.exe
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\RA_API.pdb
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ben\source\repos\RA_API\RA_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.frmMain.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.Properties.Resources.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.csproj.CopyComplete
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.exe
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.pdb
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.AchievementDisplay.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.JSONDataView.resources
+C:\Users\Ben\source\repos\RA_API\RA_API\obj\Debug\RA_API.About.resources

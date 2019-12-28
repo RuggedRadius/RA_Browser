@@ -1,0 +1,52 @@
+﻿CHANGE / FIX:
+=============
+
+
+- save user data to file?
+	- save user pic to user object etc
+	- have refresh/sync button
+
+- clean up and check status system
+
+- program icon
+
+- different sizing feature from different console box arts (ratios) ... + zoom with slider?
+
+- MENU
+	- add help
+	- add about
+
+- USER PROFILE			
+
+	- RECENT GAMES
+		- change json query to user_recent.php query, for more info on the game's achievement progress.
+			- show progress bars underneath recently played games
+				- show "X of Y  achievements completed" label
+				- show score achieved from game
+		- make recent games results count variable, in settings
+
+	- add score to users details  ('Score' may be the same as 'points', 'totalpoints' etc, in the json files...)
+	- add more summary items.. find out whats possible from queries
+	
+	- todays achievements section, user achievements by date (current date) query
+	- last week's achievements, query by date range
+		- look at "Awarded" and "RecentAchievements" in user summary JSON!!!!
+			
+- GAME BROWSER	
+			- auto-update row of game data when populates fields and fetches missing data.
+
+- ACHIEVEMENT BROWSER
+			- remove screenshots?
+			- add console and game selector to page
+
+- STATISTICS
+
+- CONSOLE BROWSER
+			- all console information
+
+- meta achievement system?
+	100 achivements..
+	200 achievements..
+	complete whole game
+	complete whole series
+	get all hardcore for a game
